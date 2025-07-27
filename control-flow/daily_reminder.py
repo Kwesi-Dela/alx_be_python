@@ -1,4 +1,3 @@
-# daily_reminder.py
 
 task = input("Enter your task: ")
 priority = input("Priority (high/medium/low): ")
